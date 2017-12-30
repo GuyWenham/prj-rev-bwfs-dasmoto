@@ -1,0 +1,43 @@
+h1 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+}
+
+h3, p {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+.header {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background: url("C:\\Users\\guywe\\OneDrive\\Documents\\SUPPLYANT\\projects\\Dasmoto\\resources\\pattern.jpeg");
+}
+
+.brushes {
+  font-weight: bold;
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+.starting {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
